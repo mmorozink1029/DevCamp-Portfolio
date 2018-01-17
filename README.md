@@ -11,7 +11,7 @@
 
 ### Code Example
 
-'''tuby
+'''ruby
 def my_great_method
   puts "here it is"
 end
