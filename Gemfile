@@ -58,6 +58,7 @@ gem 'bootstrap', '~> 4.0.0'
 
 gem 'jquery-rails'
 
+gem 'morozink_view_tool', git: 'https://github.com/mmorozink1029/Morozink_View_Tool'
 
 
 

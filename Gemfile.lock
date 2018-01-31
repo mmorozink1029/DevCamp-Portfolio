@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/mmorozink1029/Morozink_View_Tool
+  revision: af0bfa638347f48ade37d5a74f5e18541187de8f
+  specs:
+    morozink_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -191,6 +197,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
+  morozink_view_tool!
   pg (~> 0.18)
   puma (~> 3.7)
   rails (~> 5.1.4)
