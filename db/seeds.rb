@@ -59,10 +59,11 @@ end
 puts "3 technologies created"
 
 
+User.create(name: "Test",
+            email:"Test@test.com",
+            password:"password",
+            password_confirmation:"password",
+            roles: "site_admin"
+  )
 
-
-
-
-
-
-
+puts "you have created a new user"
