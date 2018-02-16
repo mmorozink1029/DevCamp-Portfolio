@@ -88,6 +88,8 @@ gem 'redcarpet', '~> 3.4'
 
 gem 'coderay', '~> 1.1', '>= 1.1.2'
 
+gem 'bundler', '~> 1.16', '>= 1.16.1'
+
 ruby "2.4.0"
 
 
